@@ -1,0 +1,3 @@
+rootProject.name = 'freeform_grid'
+
+include ':app'
