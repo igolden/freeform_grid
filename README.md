@@ -7,4 +7,4 @@ React Native free form example based on reddit post. Quick proof of concept.
 
 Demo:
 
-![Example](https://gfycat.com/crazytatteredhoverfly)
+![Example](https://raw.githubusercontent.com/igolden/freeform_grid/master/freeform.gif)
